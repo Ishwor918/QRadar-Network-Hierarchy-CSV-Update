@@ -12,7 +12,8 @@ with open(r'C:\Users\<user>\Desktop\network hierarchy.csv',"r") as f: ##replace 
              "name" : row[1],
              "cidr" : row[2],
              "description" : row[3],
-             "domian" : row[1]
+             "country_code": row[4],
+             "domian" : row[5]
         }
         json_data.append(network_hierarchy)
 
