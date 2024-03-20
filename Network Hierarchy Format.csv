@@ -1,2 +1,4 @@
 group,name,cidr,description,country_code,domain
 HeadOffice.IT,LAN,10.0.1.0/24,IT LAN,NP,Default Domain
+HeadOffice.IT,CCTV,10.0.2.0/24,IT CCTV,NP,Default Domain
+HeadOffice.IT,ATM,10.0.3.0/24,IT ATM,NP,Default Domain
